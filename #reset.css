@@ -1,0 +1,9 @@
+body {
+	font-family: 'segoe UI', ' Helvetica Neue', system-ui, sans-serif;
+	background-color: #1e1e1e;
+	color: #2f2f2f;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
