@@ -38,10 +38,11 @@ body {
     max-width: 1200px;
 }
 
-.grid-column {
-    background: rgba(255, 255, 255, 0.7);
-    border-radius: 12px;
-    padding: 20px;
+.service-card:hover {
+    transform: none;
+    border-radius 2rem;
+    border:: 12px; solidcolor
+    padding: 1.8rem;
 }
 
 .footer {
