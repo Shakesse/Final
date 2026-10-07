@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: darkorange;
+    color: #333;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background: radial-gradient(circle, #ff9a9e, #fad0c4 40%, #fbc2eb 80%, #a18cd1 100%);
+    background-size: cover;
+    backdrop-filter: blur(6px);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.appointment-form {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.grid-column {
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.footer {
+    padding: 1.2em;
+    background-color: rgb(30, 30, 30);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
