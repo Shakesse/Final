@@ -13,16 +13,16 @@ body {
     display: flex;
     justify-content: center;
     padding: 20px;
-    background: radial-gradient(circle, #ff9a9e, #fad0c4 40%, #fbc2eb 80%, #a18cd1 100%);
+    background: radial-gradient(circle, #ff9a9e, #fad0c4 20%, #fbc2eb 80%, #a18cd1 100%);
     background-size: cover;
-    backdrop-filter: blur(6px);
+    backdrop-filter: blur(3px);
 }
 
 .grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
-    width: 100%;
+    width: 75%;
     border-style: solid;rgba #d8bfd8b0;
     max-width: 1200px;
 }
