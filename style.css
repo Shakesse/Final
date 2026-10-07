@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,7 +6,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: darkorange;
+    font-size: 20px;
+    background-color: thistle;
     color: #333;
     line-height: 1.6;
     display: flex;
@@ -22,6 +23,7 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     width: 100%;
+    border-style: solid;rgba #d8bfd8b0;
     max-width: 1200px;
 }
 
