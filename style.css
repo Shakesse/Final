@@ -28,7 +28,10 @@ body {
 }
 
 .appointment-form {
-    display: grid;
+    display: inline-block;
+    background-color:darkorchid;
+    padding:20px;
+    border-radius:10px;
     grid-template-columns: 3fr 1fr;
     gap: 20px;
     width: 100%;
