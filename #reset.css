@@ -6,7 +6,6 @@
     ;
 
 .thistle-grid
-grid-template-columns: 1fr 1fr 1fr 1fr;
 display:grid; 1fr,1f,1fr,1fr
 height:6px;
 border-top:3px dashed; color:black;
