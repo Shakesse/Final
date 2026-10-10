@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:16px bold;
     background-color: rgb(247, 206, 247);
     background-image:url()
 }
@@ -29,7 +30,6 @@ body{
 
  nav{
     background-color: radial-gradient(#522911);
-    background-size: cover;
     text-transform: uppercase;
  }
 
