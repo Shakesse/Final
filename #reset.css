@@ -16,7 +16,17 @@ border-top:3px dashed; color:black;
     flex-wrap:wrap;
     gap:2rem;
 }
-contact-info{
+.hero {
+
+background-image:
+    linear-gradient(rgba 0,0,0,0.3), (0,0,0,0.5)),
+    url("images/: .jpg;)
+    min: height 30vh;
+background-size:cover;
+background-position:center;
+background-repeat;no-repeat;
+    
+}
     flex: 1;1; 280 px
 }
 
