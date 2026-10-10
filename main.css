@@ -1,7 +1,7 @@
 
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(175, 147, 175);
+    background-color: rgb(247, 206, 247);
     background-image:url()
 }
 
@@ -10,7 +10,7 @@ body{
     background-size: cover;
     max-width: 960px;
     margin 0 auto;
-    border: 2px solid thistle;
+    border: 2px solid rgb(26, 4, 26);
     box-shadow: 2px 2px 20px black;
 }
 
@@ -28,7 +28,7 @@ body{
  }
 
  nav{
-    background-color: radial-gradient(circle, #ff9a9e, #fad0c4 20%, #fbc2eb 80%, #a18cd1 100%);
+    background-color: radial-gradient(circle, #ff9a9e 20% #a18cd1 100%);
     background-size: cover;
     text-transform: uppercase;
  }
