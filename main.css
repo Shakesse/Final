@@ -28,7 +28,7 @@ body{
  }
 
  nav{
-    background-color: radial-gradient(circle, #ff9a9e 20% #a18cd1 100%);
+    background-color: radial-gradient(circle,rgb(70, 37, 37) 100%);
     background-size: cover;
     text-transform: uppercase;
  }
