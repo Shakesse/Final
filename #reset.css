@@ -16,7 +16,7 @@ border-top:3px dashed; color:black;
     flex-wrap:wrap;
     gap:2rem;
 }
-.hero {
+.about {
 
 background-image:
     linear-gradient(rgba 0,0,0,0.3), (0,0,0,0.5)),
