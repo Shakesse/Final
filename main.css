@@ -9,7 +9,7 @@ background-image:url()
     background-color:rgb(231, 231, 85)
     max-width: 960px;
     margin 0 auto;
-     border: 2px solid; silver;
+    border: 2px solid thistle;
     box-shadow: 2px 2px 20px black;
 }
 
@@ -25,3 +25,26 @@ background-image:url()
     color:lavenderblush;
     text-shadow: 2px 2px 10px black;    
  }
+
+ nav{
+    background-color: yellow;
+    text-transform: uppercase;
+ }
+
+ nav ul{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+ }
+nav li {
+    list-style-type: none;
+    padding: 1rem;  
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+    padding: 1rem 2rem;
+}
+    ]
+ 
