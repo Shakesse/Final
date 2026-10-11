@@ -1,7 +1,7 @@
 {
     font-weight:300;
     letter-spacing:2px;
-    color:brown;
+    color:darkorchid;
     text-shadow: 2px 2px 5px rgba(0,0,0,0.7), 1px 1px 0 #ffffff60
     ;
 
@@ -10,12 +10,12 @@ display:grid; 1fr,1f,1fr,1fr
 height:6px;
 border-top:3px dashed; color:black;
 
-
-.contact-flex.contact-flex{
+}
+.contact
     display:flex;
     flex-wrap:wrap;
     gap:2rem;
-}
+{
 .about {
 
 background-image:

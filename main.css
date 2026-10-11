@@ -10,7 +10,7 @@ body{
     background-color:radial-gradient(circle, #deec15);
     background-size: cover;
     max-width: 960px;
-    margin 0 auto;
+    margin: 0 auto;
     border: 2px solid rgb(26, 4, 26);
     box-shadow: 2px 2px 20px rgb(65, 19, 19);
 }
@@ -29,8 +29,9 @@ body{
  }
 
  nav{
-    background-color: radial-gradient(#522911);
+    background-color: #9691d1;
     text-transform: uppercase;
+    border:2px radial rgb(65, 19, 19)
  }
 
  nav ul{
@@ -44,7 +45,7 @@ nav li {
 }
 
 nav a {
-    color:white;
+    color:rgb(206, 133, 133)19, 143, 143);
     text-decoration: none;
     padding: 1rem 2rem;
 }
@@ -52,6 +53,25 @@ nav a {
  nav a:hover { 
     background-color: black;
     border-radius: 2rem;
-    
 
  }
+main {
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 1rem;
+    padding: .5rem;
+}
+
+.left-column {
+    font-size: 135%;
+    line-height: 1.4;
+    padding: 0 1rem;
+}
+.left-column h2 {
+    font-size: 150%;
+    color:#b04688;
+    border: 1px solid;color: rgb(65,19,19)
+    border-bottom: 1px solid; color:#b04688
+
+}
+
