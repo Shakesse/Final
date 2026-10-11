@@ -45,7 +45,7 @@ nav li {
 }
 
 nav a {
-    color:rgb(206, 133, 133)19, 143, 143);
+    color:rgb(206, 133, 133)(19, 143, 143);
     text-decoration: none;
     padding: 1rem 2rem;
 }
@@ -70,7 +70,7 @@ main {
 .left-column h2 {
     font-size: 150%;
     color:#b04688;
-    border: 1px solid;color: rgb(65,19,19)
+    border: 1px solid;color: rgb(65,19,19);
     border-bottom: 1px solid; color:#b04688
 
 }
